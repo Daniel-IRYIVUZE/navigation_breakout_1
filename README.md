@@ -1,16 +1,59 @@
-# flutter_mb_work_navigation
+## Project Overview
+This project is a simple product navigation application where users can view a list of products and click on any product to see its details. The application consists of two main screens:
+1. **Product List Page** - Displays a list of products with their names and brief descriptions.
+2. **Product Details Page** - Shows detailed information about the selected product.
 
-A new Flutter project.
+Users can navigate back to the home page using the back button.
 
-## Getting Started
+## Features
+- Click on a product to navigate to the details page.
+- View detailed information about each product.
+- Navigate back to the product list page using the back button.
+- Clean and responsive UI design.
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+- **Frontend:** Flutter (Dart)
+- **Backend:** N/A (Static Data)
+- **Navigation:** Flutter's built-in Navigator
 
-A few resources to get you started if this is your first Flutter project:
+## Installation Instructions
+1. Clone the repository from GitHub:
+   ```bash
+   git clone [[GITHUB_LINK](https://github.com/Daniel-IRYIVUZE/navigation_breakout_1.git)]
+   ```
+2. Navigate to the project folder:
+   ```bash
+   cd navigation_breakout_1
+   ```
+3. Install dependencies:
+   ```bash
+   flutter pub get
+   ```
+4. Run the application:
+   ```bash
+   flutter run
+   ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## How to Use
+1. Launch the app.
+2. Click on any product from the list.
+3. View the product details.
+4. Click the back button to return to the product list.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo Video
+Watch the short demo video of the application:
+[[DEMO_VIDEO_LINK](https://youtu.be/RE1J9YcjMs0)]
+
+## Project Team
+This project was developed by **Breakout Room One**, consisting of:
+- Daniel Iryivuze
+- Kethia Karangwa
+- John Ouma
+- Clinton Pikita
+- David Ubushakebwimana
+
+---
+
+# Project Links
+- **GitHub Repository:** [[GITHUB_LINK](https://github.com/Daniel-IRYIVUZE/navigation_breakout_1.git)]
+- **Demo Video:** [[DEMO_VIDEO_LINK](https://youtu.be/RE1J9YcjMs0)]
