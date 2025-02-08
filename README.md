@@ -19,7 +19,7 @@ Users can navigate back to the home page using the back button.
 ## Installation Instructions
 1. Clone the repository from GitHub:
    ```bash
-   git clone [(https://github.com/Daniel-IRYIVUZE/navigation_breakout_1.git)]
+   git clone (https://github.com/Daniel-IRYIVUZE/navigation_breakout_1.git)
    ```
 2. Navigate to the project folder:
    ```bash
@@ -42,7 +42,7 @@ Users can navigate back to the home page using the back button.
 
 ## Demo Video
 Watch the short demo video of the application:
-[(https://youtu.be/RE1J9YcjMs0)]
+(https://youtu.be/RE1J9YcjMs0)
 
 ## Project Team
 This project was developed by **Breakout Room One**, consisting of:
@@ -55,5 +55,5 @@ This project was developed by **Breakout Room One**, consisting of:
 ---
 
 # Project Links
-- **GitHub Repository:** [(https://github.com/Daniel-IRYIVUZE/navigation_breakout_1.git)]
-- **Demo Video:** [(https://youtu.be/RE1J9YcjMs0)]
+- **GitHub Repository:** (https://github.com/Daniel-IRYIVUZE/navigation_breakout_1.git)
+- **Demo Video:** (https://youtu.be/RE1J9YcjMs0)
